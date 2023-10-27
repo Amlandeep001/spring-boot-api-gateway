@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.org.gateway</groupId>
 	<artifactId>zuulproxy</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>zuulproxy</name>
 	<description>Product Service as Eureka Client</description>
 	<properties>
